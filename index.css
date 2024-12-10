@@ -1,6 +1,10 @@
-.clr {
-  color: red;
+table,
+th,
+td {
+  border: 1px solid;
 }
-.hide {
-  display: none;
+table {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
 }
